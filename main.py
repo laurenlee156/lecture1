@@ -1,3 +1,5 @@
+# hello nathan
+# hello aaron
 # m.py -> x = 1
 # import m (module), if you want to see x use m.x
 # del m.x -> removes x = 1 from m.py
